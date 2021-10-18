@@ -1,6 +1,8 @@
 # i_robot
 Small collection of models and example programs illustrating robotics visualization using VulkanSceneGraph.
 
+---
+
 ## Dependencies
 
 * [VulkanSDK]() - VulkanSDK 1.2.162.0 or later
@@ -8,11 +10,11 @@ Small collection of models and example programs illustrating robotics visualizat
 * [CMake](https://cmake.org) - cmake-3.7 or later.
 * C++17 or later compiler
 
-# Optional dependencies
-* [vsgXchange](https://github.com/vsg-dev/vsgXchange)_- optional vsgXchange-0.0.0 or later
-* [vsgImGui](https://github.com/vsg-dev/vsgImGui)_- optional vsgImGui-0.0.0 or later
+## Optional dependencies
+* [vsgXchange](https://github.com/vsg-dev/vsgXchange)- optional vsgXchange-0.0.0 or later
+* [vsgImGui](https://github.com/vsg-dev/vsgImGui) - optional vsgImGui-0.0.0 or later
 
-# Building i_robot
+## Building i_robot
 
 Unix in source build:
 
@@ -27,6 +29,8 @@ To install:
     make install
 
 To execuate the examples with run directly from the local bin by or by setting the PATH env variable to the i_robot/bin directory, or running install.
+
+---
 
 ## Robot models
 
